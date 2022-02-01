@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/munkireport/munkireport-python2
 """Mac OS X Disk/Volume script for munkireport.
 https://github.com/munkireport/munkireport-php
 
